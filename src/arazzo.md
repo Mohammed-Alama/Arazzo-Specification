@@ -1590,11 +1590,11 @@ The proposed MIME media type for Arazzo documents (e.g. workflows) that require 
 
 ## Appendix A: Revision History
 
-| Version | Date       | Notes                                           |
-|---------|------------|-------------------------------------------------|
-| 1.1.0   | 2026-05-17 | Minor release of the Arazzo Specification 1.1.0 |
-| 1.0.1   | 2025-01-16 | Patch release of the Arazzo Specification 1.0.1 |
-| 1.0.0   | 2024-05-29 | First release of the Arazzo Specification       |
+| Version                                               | Date       | Notes                                           |
+|-------------------------------------------------------|------------|-------------------------------------------------|
+| [1.1.0](https://spec.openapis.org/arazzo/v1.1.0.html) | 2026-05-17 | Minor release of the Arazzo Specification 1.1.0 |
+| [1.0.1](https://spec.openapis.org/arazzo/v1.0.1.html) | 2025-01-16 | Patch release of the Arazzo Specification 1.0.1 |
+| [1.0.0](https://spec.openapis.org/arazzo/v1.0.0.html) | 2024-05-29 | First release of the Arazzo Specification       |
 
 ## Appendix B: Examples of Base URI Determination and Reference Resolution
 
